@@ -1,0 +1,6 @@
+{
+  "name": "MY AI",
+  "description": "Premium native Android AI assistant created by Monal from Sri Lanka, powered by Gemini via Firebase AI Logic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
